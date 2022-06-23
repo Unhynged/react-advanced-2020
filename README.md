@@ -1,7 +1,9 @@
-Practice for React from youtube.com/watch?v=4UZrsTqkcW4&t=1s
-Full React Course 2020 -  Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks
-freeCodeCamp.org
-John Smilga
+### Tutorial Practice
+
+- Practice for React from youtube.com/watch?v=4UZrsTqkcW4&t=1s
+- Full React Course 2020 -  Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks
+- freeCodeCamp.org
+- John Smilga
 
 ## Corresponding Projects
 
